@@ -1,0 +1,123 @@
+﻿
+.first1{
+    top:150px;
+    left:5px;
+    width:220px;
+    height:220px;
+    position:absolute;
+    background-image:url(forsticker/1.png);
+}
+.first2{
+    top:50px;
+    left:80px;
+    width:400px;
+    height:120px;
+    position:absolute;
+    background-color:powderblue;
+    padding:10px;
+    opacity:.8;
+}
+.first3{
+    top:90px;
+    left:110px;
+    width:360px;
+    height:150px;
+    position:absolute;
+    background-color:rgb(240,128,128);
+    padding:10px;
+    opacity:.9;
+    font-size:16px;
+}
+
+
+
+.second1{
+    top:40px;
+    right:5px;
+    width:220px;
+    height:220px;
+    position:absolute;
+    background-image:url(forsticker/2.png);
+}
+.second2{
+    top:240px;
+    right:100px;
+    width:420px;
+    height:130px;
+    position:absolute;
+    background-color:beige;
+    padding:10px;
+    opacity:.8;
+}
+.second3{
+    top:300px;
+    right:110px;
+    width:390px;
+    height:120px;
+    position:absolute;
+    background-color:rgb(180, 155, 213);
+    padding:10px;
+    opacity:.9;
+    font-size:16px;
+}
+.third1{
+    top:360px;
+    left:250px;
+    width:220px;
+    height:220px;
+    position:absolute;
+    background-image:url(forsticker/4.jpeg);
+}
+.third2{
+    top:510px;
+    left:5px;
+    width:410px;
+    height:130px;
+    position:absolute;
+    background-color:beige;
+    padding:10px;
+    opacity:.8;
+}
+.third3{
+    top:550px;
+    left:40px;
+    width:360px;
+    height:110px;
+    position:absolute;
+    background-color:powderblue;
+    padding:10px;
+    opacity:.9;
+    font-size:16px;
+}
+.fourth1{
+    top:570px;
+    left:270px;
+    width:220px;
+    height:220px;
+    position:absolute;
+    background-image:url(forsticker/3.png);
+}
+.fourth2{
+    top:480px;
+    left:5px;
+    width:400px;
+    height:130px;
+    position:absolute;
+    background-color:rgb(180, 155, 213);
+    padding:10px;
+    opacity:.8;
+}
+.fourth3{
+    top:530px;
+    left:0px;
+    width:350px;
+    height:110px;
+    position:absolute;
+    background-color:rgb(240,128,128);
+    padding:10px;
+    opacity:.9;
+    font-size:16px;
+}
+
+
+
